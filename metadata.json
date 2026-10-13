@@ -1,0 +1,6 @@
+{
+  "name": "Himanshu Hospitals — Tertiary Care & ABDM Health Network",
+  "description": "NABH-accredited multi-specialty tertiary care hospital network with seamless ABDM digital health records, verified super-specialists, and rapid Golden Hour trauma triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
